@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Mi Servicio Web</title>
+        <link>http://www.tusitio.com</link>
+        <description>Últimas noticias y artículos de Mi Servicio Web</description>
+        <item>
+            <title>Artículo 1</title>
+            <link>http://www.tusitio.com/articulo1</link>
+            <description>Contenido del artículo 1.</description>
+        </item>
+        <item>
+            <title>Artículo 2</title>
+            <link>http://www.tusitio.com/articulo2</link>
+            <description>Contenido del artículo 2.</description>
+        </item>
+    </channel>
+</rss>
